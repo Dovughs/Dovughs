@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Doruk 👋
 
-<!--
-**Dovughs/Dovughs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```c
+#include <windows.h>
+// Focused on Windows NT Internals, EDR Evasion & Low-Level Security Research
+```
 
-Here are some ideas to get you started:
+## 🛠 Focus Areas & Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Low-Level Development:** C, C++, x86_64 Assembly, Win32 / Native API (NTAPI)
+- **Windows Internals:** PE Format, Virtual Memory, Process & Thread Structures (EPROCESS)
+- **Offensive Security:** Indirect Syscalls, Call Stack Spoofing, HWBP Telemetry Bypass
+- **Kernel & EDR Analysis:** Kernel Callbacks Manipulation, Unlinking Routines, Watchdog Bypass
