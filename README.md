@@ -6,7 +6,8 @@ assembly, with a focus on execution flow, architectural state and the mechanisms
 behind kernel instrumentation and detection.
 
 My work combines hands-on implementation with ongoing analysis of Windows
-internals and processor architecture.
+internals and processor architecture. I also investigate emerging EDR architectures
+and develop new evasion and bypass techniques.
 
 ### Technical focus
 
