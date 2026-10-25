@@ -1,17 +1,21 @@
 ![Doruk | Systems and security research](assets/profile-header.svg)
 
-I work on low-level systems and Windows security research, using C, C++ and x64
-assembly to understand how software interacts with the kernel and processor.
-My work combines implementation, debugging and controlled experiments.
+I develop low-level systems software and specialize in Windows internals,
+kernel development and endpoint security research. I work across C, C++ and x64
+assembly, with a focus on execution flow, architectural state and the mechanisms
+behind kernel instrumentation and detection.
 
-### Research interests
+My work combines hands-on implementation with ongoing analysis of Windows
+internals and processor architecture.
+
+### Technical focus
 
 | Area | Focus |
 | --- | --- |
-| **Windows internals** | Virtual memory, process and thread structures, PE files, Native API and WinDbg |
-| **Systems programming** | Kernel development, architectural state and C/assembly interfaces |
-| **Virtualization** | Intel VT-x, per-CPU EPT, VM-exit handling and native execution transitions |
-| **EDR research & evasion** | Endpoint telemetry, detection mechanisms and evasion techniques in controlled labs |
+| **Windows internals** | Native system-call paths, kernel callback mechanisms, exception and interrupt delivery, kernel memory management, and CET shadow-stack semantics |
+| **Systems programming** | Kernel-mode C/C++, x64 assembly, ABI and calling-convention details, concurrent state management, synchronization, and resource lifetime across execution boundaries |
+| **Virtualization** | Intel VT-x, VMCS guest/host state, per-CPU EPT, instruction replay and MTF, event reinjection, translation invalidation, and native return |
+| **EDR research & evasion** | Indirect syscalls, advanced call stack spoofing, kernel callback unlinking, ETW-TI unregistration, and analysis of endpoint instrumentation |
 
 ### Featured project
 
